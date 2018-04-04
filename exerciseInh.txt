@@ -1,0 +1,12 @@
+
+
+Start with a base class of a vehicle, then create a car class that inhirates from this base class.
+Finally, create another class, a specific type of car that inhirates from car class.
+
+You should be able to handle steering, changing gears, and moving (speed in other words).
+You'll want to decide where to put the appropriate states and behaviors (fields and methods).
+As mentioned above, changing gears, increasing/descreasing speed should be included.
+For your specific type of car you should add something specific to that type of car.
+
+
+
