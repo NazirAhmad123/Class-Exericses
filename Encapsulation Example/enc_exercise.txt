@@ -1,0 +1,11 @@
+/*
+	* Create a class called Printer and demonstrate proper encapsulation techniques.
+	* It will simulate a real computer printer.
+	* It should have fields for the inkLevel, number of pages printed and also
+	* whether it is a duplex printer. (capable of printing on both sides of the paper).
+	* add methods to fill up the ink level, (up to a maximum of 100 percent).
+	* add another method to simulate printing of a page. (which should increase the number
+	* pages printed.)
+	* Decide on the scope whether to user constructor, and anything else you think is needed.
+	*
+	* */
