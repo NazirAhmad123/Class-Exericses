@@ -1,0 +1,9 @@
+Design a class called ProgrammingBooks
+Your ProgrammingBooks class should have only one field (name) and one method (description) for the description of the book.
+Create 5 subclasses that extends the ProgrammingBooks class. (You may pick some from google)
+Create another method to create some random programming books and in your main method try
+use the concept of polymorphism by using your description() method. you may use a for loop to create 10 random programming books.
+
+
+
+
