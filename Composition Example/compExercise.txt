@@ -1,1 +1,25 @@
-.
+//Inheritance.
+we had. is-A. 
+//Composition.
+we have. has-A
+// PC  has -> A-case, A-monitor, A-motherboard.
+
+Try to show the use of composition doing the below exercise.
+
+Create a single room of a house using composition. e.g: Bedroom.
+Think about the things that should be included in the Bedroom.
+Maybe physical parts (e.g: walls, ceiling) of the house but furnitures as well  ( e.g: Bed, lamp). 
+	
+	   // some that you might think of:
+									1. Bed -> Style, pillows, height,  sheets, quilt.
+									// method: make()
+									2. Wall -> Direction
+									3. Ceiling -> height, painedColor
+									4. Lamp -> Style, battery
+									   // method: turnOn()
+
+Add at least one method to access an object via getter and then that objects public methods as you saw in the previous example.
+then add at least one method to hide the object.
+e.g: not using a getter but to access the object used in composition within the main class.
+
+// Call the make() and turnOn() methods in your main methods and see how it works. using the Bedroom Object.
